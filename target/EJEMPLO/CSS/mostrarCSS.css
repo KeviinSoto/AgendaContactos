@@ -1,0 +1,95 @@
+hmtl, body{
+    background-color: lemonchiffon;
+}
+
+h1
+{
+    font-family: Times New Roman;
+    text-align: center;
+}
+.mostarr{
+    
+    text-align: center;
+    padding:2px;
+    margin-left: 130px;
+    font-family: Times New Roman;      
+    font-size:16px; 
+    /*padding:5px 50px 10px 50px;*/
+
+}
+.txt
+{
+    font-family: Times New Roman;
+    font-size:16px;
+}
+
+.txtArea
+{
+    font-family: Times New Roman;
+/*    margin-left: 130px;*/
+    border:solid 2px;
+    padding:5px 5px 5px 5px;
+}
+
+.btnAtras
+{
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:16px;
+/*    margin-left: 135px;*/
+}
+.btnEditar{
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:16px;
+}
+
+.btnListarTodos{
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:16px;
+    margin-left: 315px;
+}
+.btnBorrar
+{
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:16px;
+}
+.btnBuscar{
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:16px;
+}
+label
+{
+    margin: .2px;
+    padding: 2px;
+    font-family: Times New Roman;
+    font-size:16px; 
+    /*margin-left: 135px;*/
+}
+
+input:focus 
+{
+    border: 2px solid #000;
+    background: #F3F3F3;
+}
+
+.buscar
+{
+    /*margin-left: 570px;*/
+    font-family: Times New Roman;
+    margin-bottom: 5px;
+    font-size:16px;
+}
+
+.lblBuscar
+{
+    margin: 2px;
+    padding: 2px;
+    font-family: Times New Roman;
+    font-size:16px; 
+    /*margin-left: 500px;*/
+    text-align: center;
+}

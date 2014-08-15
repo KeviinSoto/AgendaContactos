@@ -1,0 +1,50 @@
+body
+{
+    background-color: deepskyblue;
+    background: url(/imagenes/fondo-azul.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1
+{
+    font-family: Times New Roman;
+}
+
+
+.iniciarSesion
+{
+    text-align: center;
+    padding:2px;
+    margin-left: 500px;
+    margin-top: 160px;
+    font-family: Times New Roman;      
+    font-size:16px; 
+    border:solid 3px; 
+    border-color: blue;
+    padding:10px 50px 50px 50px;
+    border-radius: 15px;
+    background-color: cornflowerblue;
+}
+
+label
+{
+    display: block;
+    margin: .2px;
+    padding: 2px;
+    font-family: Times New Roman;
+    font-size:16px; 
+}
+
+.boton
+{
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:16px; 
+}
+
+input:focus 
+{
+    border: 2px solid blue;
+    background: #F3F3F3;
+}
